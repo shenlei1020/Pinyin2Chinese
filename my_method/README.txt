@@ -1,0 +1,1 @@
+1、viterbi.py是viterbi算法实现
